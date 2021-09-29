@@ -1,3 +1,4 @@
 Omega Launcher
 Omega Launcher Testing
+Personalisation
 Theming
