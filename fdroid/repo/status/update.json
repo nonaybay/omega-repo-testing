@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/bin/fdroid update"],"disabled":[],"endTimestamp":1633251042379,"failedBuilds":{},"noPackages":["com.saggitt.omega.neo"],"startTimestamp":1633261839000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/bin/fdroid update"],"disabled":[],"endTimestamp":1633251189365,"failedBuilds":{},"noPackages":["com.saggitt.omega.neo"],"startTimestamp":1633261986000,"subcommand":"update"}
